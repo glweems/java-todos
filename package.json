@@ -1,0 +1,15 @@
+{
+  "name": "java-todos",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "1.17.1",
+    "prettier-plugin-java": "0.0.10"
+  },
+  "scripts": {
+    "lint": "prettier --write \"**/*.java\""
+  },
+  "author": "Garrett Weems <gwgraphicdesign@gmail.com> (https://glweems.com)",
+  "license": "MIT"
+}
